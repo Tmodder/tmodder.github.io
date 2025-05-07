@@ -1,0 +1,30 @@
+.left {
+background: #e46767;
+color: rgb(0, 0, 0);
+position: absolute;
+top: 100px;
+height: 600px;
+left: 0px;
+width: 100px;
+
+}
+
+.right {
+    background: #e46767;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 100px;
+    height: 600px;
+    right: 0px;
+    width: 100px;
+}
+
+.bottom {
+    background-color: aqua;
+    position: absolute;
+    top: 800px;
+    height: 500px;
+    right: 0px;
+    left: 0px;
+    text-align: center;
+}
