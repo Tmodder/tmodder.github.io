@@ -28,3 +28,30 @@ width: 100px;
     left: 0px;
     text-align: center;
 }
+
+.title {
+    text-align: center;
+}
+
+.video {
+    position: absolute;
+    top: 500px;
+    right: 200px;
+}
+
+
+img {
+    position: absolute;
+    right: 0px;
+    width: 10%;
+    height: 10%;
+}
+
+ol {
+    text-align: center;
+}
+
+ul
+{
+    text-align: center;
+}
